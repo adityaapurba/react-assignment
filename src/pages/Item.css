@@ -1,0 +1,32 @@
+.item-description-container {
+    padding: 40px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+  }
+  
+  .item-description-container .card {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .item-description-container .card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .item-description-container .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .item-description-container .card-title {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+  
+  .item-description-container .btn-primary {
+    margin-top: 20px;
+  }
+  

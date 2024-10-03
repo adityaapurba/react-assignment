@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "date": "20 July 2024",
+      "amount": 5000,
+      "points": 250,
+      "image": "https://logos-world.net/wp-content/uploads/2020/04/Apple-Logo.png",
+      "description": "This is a detailed description of the Apple sale."
+    },
+    {
+      "id": 2,
+      "brand": "Dell",
+      "date": "22 July 2024",
+      "amount": 10000,
+      "points": 550,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dell_Logo.png",
+      "description": "This is a detailed description of the Dell sale."
+    },
+    {
+      "id": 3,
+      "brand": "Lenovo",
+      "date": "23 July 2024",
+      "amount": 50000,
+      "points": 550,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dell_Logo.png",
+      "description": "This is a detailed description of the lenovo sale."
+    }
+  ]
+  

@@ -1,0 +1,66 @@
+{
+    "users": [
+      {
+        "email": "meow@gmail.com",
+        "password": "123456",
+        "user_data": {
+          "name": "John Doe",
+          "image": "https://cdn-icons-png.flaticon.com/512/3607/3607444.png",
+          "designation": "Affiliate Marketer",
+          "total_sales": 10,
+          "rewards_earned": 150
+        },
+        "sales": [
+          {
+            "id": 1,
+            "brand": "Apple",
+            "date": "20 July 2024",
+            "amount": 5000,
+            "points": 250
+          },
+          {
+            "id": 2,
+            "brand": "Dell",
+            "date": "22 July 2024",
+            "amount": 10000,
+            "points": 550
+          },
+          {
+            "id": 3,
+            "brand": "Lenovo",
+            "date": "24 July 2024",
+            "amount": 50000,
+            "points": 540
+          }
+        ]
+      },
+      {
+        "email": "meow2@gmail.com",
+        "password": "123456",
+        "user_data": {
+          "name": "Jane Doe",
+          "image": "https://cdn-icons-png.flaticon.com/512/3607/3607446.png",
+          "designation": "Content Creator",
+          "total_sales": 20,
+          "rewards_earned": 300
+        },
+        "sales": [
+          {
+            "id": 1,
+            "brand": "Apple",
+            "date": "20 July 2024",
+            "amount": 5000,
+            "points": 250
+          },
+          {
+            "id": 2,
+            "brand": "Dell",
+            "date": "22 July 2024",
+            "amount": 10000,
+            "points": 550
+          }
+        ]
+      }
+    ]
+  }
+  
